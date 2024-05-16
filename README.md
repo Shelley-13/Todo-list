@@ -1,0 +1,1 @@
+The To-do react app is used to create a todo list for user and delete selected items from their to-do list by clicking on the consecutive checkbox next to each item and the clicking on delete button to delte the selected records. 
